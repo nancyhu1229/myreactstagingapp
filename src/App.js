@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+//首字母大写的，都是组件 App组件
 function App() {
   return (
     <div className="App">
@@ -15,11 +16,13 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React 111we tao lala 
+
         </a>
       </header>
     </div>
   );
 }
 
+//默认暴露，分别暴露区别是什么？
 export default App;
